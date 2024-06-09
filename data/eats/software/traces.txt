@@ -1,0 +1,35 @@
+ConversationBenchmarks_simpleConversationOpen
+bench_runMs                                 min 36,924.1,   median 38,399.0,   max 40,576.7
+cold_start_completed_initial_ui_v2Ms        min  7,110.5,   median  7,693.7,   max  9,166.1
+cold_start_post_launchMs                    min  5,527.5,   median  5,895.8,   max  6,237.4
+cold_start_root_activity_on_create_v2Ms     min    342.5,   median    463.0,   max    646.8
+eats_active_worker_durationMs               min      0.8,   median      1.1,   max     10.4
+eats_bootstrap_load_completeMs              min  2,087.9,   median  2,219.2,   max  2,568.0
+eats_central_worker_durationMs              min     44.2,   median     52.4,   max     82.9
+eats_feed_load_completeMs                   min  7,110.6,   median  7,696.1,   max  9,166.6
+eats_home_worker_durationMs                 min      3.0,   median      4.3,   max     15.6
+eats_logged_in_worker_durationMs            min     10.7,   median     19.2,   max     42.6
+eats_marketplace_load_completeMs            min    956.9,   median  1,554.3,   max  2,022.3
+eats_marketplace_network_callMs             min    923.7,   median  1,491.5,   max  1,947.9
+eats_root_worker_durationMs                 min     99.2,   median    187.1,   max    281.6
+eats_start_to_activeMs                      min  4,211.0,   median  4,418.9,   max  4,668.5
+eats_start_to_bootstrapMs                   min    892.3,   median  1,090.2,   max  1,761.5
+eats_start_to_centralMs                     min  4,900.9,   median  5,143.5,   max  5,509.6
+eats_start_to_homeMs                        min  5,477.5,   median  5,851.8,   max  6,205.3
+eats_start_to_home_feedMs                   min  5,441.8,   median  5,810.9,   max  6,185.3
+eats_start_to_launcherMs                    min 10,362.4,   median 11,125.8,   max 12,902.3
+eats_start_to_lobbyMs                       min 10,324.3,   median 11,119.1,   max 12,897.0
+eats_start_to_logged_inMs                   min  4,134.3,   median  4,326.2,   max  4,554.5
+eats_start_to_rootMs                        min  2,489.3,   median  2,677.7,   max  2,980.1
+eats_start_to_web_feedMs                    min  4,160.7,   median  4,342.0,   max  4,599.8
+eats_usable_uiMs                            min  3,094.4,   median  3,555.0,   max  3,997.3
+eats_usable_ui_to_web_feed_completeMs       min  1,407.1,   median  1,835.5,   max  2,931.3
+eats_web_feed_load_completeMs               min  5,469.0,   median  5,825.8,   max  6,199.1
+eats_web_feed_to_web_feed_load_completeMs   min  2,854.8,   median  3,338.6,   max  4,728.1
+eats_worker_foreground_timingMs             min    138.1,   median    206.0,   max    268.8
+start_to_feedMs                             min  5,453.5,   median  5,815.1,   max  6,190.7
+start_to_tabsMs                             min  5,523.3,   median  5,891.9,   max  6,234.9
+timeToFullDisplayMs                         min  8,413.4,   median  8,733.3,   max  9,087.9
+timeToInitialDisplayMs                      min  3,302.7,   median  3,457.3,   max  3,822.0
+frameDurationCpuMs                          P50     106.0,   P90     221.2,   P95     251.7,   P99     390.2
+frameOverrunMs                              P50     269.1,   P90  12,081.8,   P95  15,775.2,   P99  19,568.5
