@@ -1,0 +1,2 @@
+06-09 19:11:45.337  8751  8781 I TestRunner: iteration.start=0
+06-09 19:13:24.193  8751  8781 I TestRunner: iteration.end=0
