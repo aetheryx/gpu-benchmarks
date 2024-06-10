@@ -1,8 +1,6 @@
 {
-    "work": 0,
-    "web": 5411,
-    "video": 0,
-    "writing": 9817,
-    "photo": 7979,
-    "data": 3556
+    "Web Browsing": 5411,
+    "Text Writing": 9817,
+    "Photo Editing": 7979,
+    "Data Processing": 3556
 }
