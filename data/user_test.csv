@@ -1,0 +1,11 @@
+tester,emulator,responsiveness,smoothness,consistency
+yaoda,cpu,3,2,6
+yaoda,gpu,7,6.5,6
+zmicier,cpu,3,4,8
+zmicier,gpu,6,7,6
+robin,cpu,4,5,9
+robin,gpu,8,9,9
+chantal,cpu,3.5,4,7
+chantal,gpu,7,9,6
+red,cpu,3,3,7
+red,gpu,7.5,8,7
